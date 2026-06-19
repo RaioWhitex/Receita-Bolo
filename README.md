@@ -22,7 +22,6 @@ Interface contendo:
 ## ✨ Tecnologias Utilizadas
 
 - **HTML5**
-- **CSS3**
 
 ---
 
